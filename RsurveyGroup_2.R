@@ -7,9 +7,9 @@ source('CRLfunction.R')
 
 # --------------------------------------------------------------
 # Read data:
-cdata = read.csv('POLLOCK_CATCH_2015_2019.csv')
-ldata = read.csv('POLLOCK_LENGTH_2015_2019.csv')
-adata = read.csv('POLLOCK_AGE_2015_2019.csv')
+cdata = read.csv('data/POLLOCK_CATCH_2015_2019.csv')
+ldata = read.csv('data/POLLOCK_LENGTH_2015_2019.csv')
+adata = read.csv('data/POLLOCK_AGE_2015_2019.csv')
 
 # ---------------------------------------------------------------------
 # Example 1: 
